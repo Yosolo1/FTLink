@@ -59,10 +59,10 @@ app.response_class.file_body_class = FileBody
 
 @app.route('/')
 async def root():
-    return redirect(f"https://t.me/shadow_bots")
+    return redirect(f"https://t.me/Luis_Daniel_Diaz")
 
 
-@app.route('/dl/<int:archive_id>/<name>')
+@app.route('LuisDanDfiletolink:)/dl/<int:archive_id>/<name>')
 async def download(archive_id: int, name: str):
     worker: Worker = AllWorkers.get(archive_id=archive_id)
     if worker is None:
