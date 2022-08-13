@@ -34,6 +34,7 @@
 
 To get download and stream links, just forward any file to the bot.
 
+
 :warning: **If you want to download the link don't use 1DM, instead you can use ADM or IDM(on PC)**
 
 ## faQ
@@ -47,3 +48,7 @@ To get download and stream links, just forward any file to the bot.
 
 
 You can PM me on [@ooom09](https://telegram.me/ooom09)
+
+
+### Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yosolo1/FTLink)
